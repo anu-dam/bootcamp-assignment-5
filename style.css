@@ -1,0 +1,51 @@
+
+/* body{
+
+    background-image: url("./img/background-blur-clean-clear-531880.jpg");
+} */
+
+textarea {
+
+    width: 500px;
+}
+
+.jumbotron{
+    
+    padding-top: 30px;
+    height: 180px;
+}
+
+.display-3 {
+    text-align: center;
+    font-style: italic;
+}
+
+.lead{
+    text-align: center;
+}
+
+.container{
+
+    
+    padding: 20px;
+}
+
+
+.svBtn{
+
+    background-color: lightgreen;
+    margin-left: 10px;
+    border: 5px black;
+
+}
+
+p {
+
+    display: inline;
+}
+
+#outPut {
+
+    padding-top: 50px;
+}
+
