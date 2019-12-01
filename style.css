@@ -15,6 +15,11 @@ textarea {
     height: 180px;
 }
 
+.lead {
+
+    text-align: center;        
+}
+
 .display-3 {
     text-align: center;
     font-style: italic;
@@ -47,5 +52,11 @@ p {
 #outPut {
 
     padding-top: 50px;
+}
+
+#currentDay {
+
+    color: blue;
+    
 }
 
