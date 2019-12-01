@@ -22,12 +22,10 @@ textarea {
 
 .display-3 {
     text-align: center;
-    font-style: italic;
+    font-weight: bolder;
 }
 
-.lead{
-    text-align: center;
-}
+
 
 .container{
 
@@ -55,8 +53,7 @@ p {
 }
 
 #currentDay {
-
-    color: blue;
-    
+    color: lightseagreen;
+    text-align: right;
 }
 
